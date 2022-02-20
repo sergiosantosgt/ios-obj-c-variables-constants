@@ -7,7 +7,12 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController {
+
+    NSString *word;
+    int int1;
+    
+}
 
 
 @end
